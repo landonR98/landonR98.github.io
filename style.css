@@ -41,3 +41,17 @@ img {
     font-weight: bold;
     color:cyan;
 }
+
+.btn {
+    display:inline-block;
+    text-decoration: none;
+    background-color: ghostwhite;
+    color:black;
+    padding:4pt;
+    padding-bottom: 2pt;
+    border-radius: 5pt;
+}
+
+.btn:hover {
+    background-color: cyan;
+}
