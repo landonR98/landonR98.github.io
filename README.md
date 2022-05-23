@@ -1,2 +1,3 @@
-# Pages
-website for lab #4 in web dev
+# Portfolio website
+## Pages
+* index -> homepage
